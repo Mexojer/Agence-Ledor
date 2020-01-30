@@ -1,5 +1,106 @@
 @media screen and (max-width: 700px) {
+}
 
-    #content { width: 100% }
+*{  
+    margin:0px;
+    padding:0px;
+    font-family: 'Montserrat', sans-serif;
+}
 
+header{
+    height: 28em;
+}
+
+h2{
+    font-size: 2em;
+    padding: 5em 5em 0em 5em;
+}
+
+.lorem{
+    font-size: initial;
+    padding: 2em 10em 0em 10em;
+}
+
+/*section offres*/
+.offres{
+    display: block;
+    padding: 1em;
+}
+.sous-titre{
+    padding-left: 0.5em;
+    margin-bottom: -1em;
+    font-size: 2em;
+}
+.app1{
+    height: 40em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+}
+.p1{
+    width: 40em;
+}
+
+.app2{
+    height: 40em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+}
+.p2{
+    width: 40em;
+}
+
+.app3{
+    height: 40em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+}
+.p3{
+    width: 40em;
+}
+
+.empty{
+    margin-left: 19em;
+}
+
+/*section team*/
+.team{
+    display: block;
+}
+.mecs{
+    width: 43.7em;
+}
+.pro{
+    padding: 1em 1em 1em 1em;
+}
+
+/*section avis*/
+
+.avis{
+    display: block;
+    padding-bottom: 2em;
+}
+.titre{
+    padding: 1em;
+    margin: 0em;
+}
+.com1{
+    width: 41em;
+}
+.com2{
+    width: 40em;
+}
+.com3{
+    width: 40em;
+}
+
+/*section formulaire*/
+
+.formulaire{
+    padding: 2em 0em 2em 5em;
+}
+
+/*section footer*/
+footer{
+    height: 1em;
+    padding: 1em;
 }
